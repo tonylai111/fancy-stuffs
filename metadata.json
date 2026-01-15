@@ -1,0 +1,5 @@
+{
+  "name": "星际旅行者：地球版",
+  "description": "A high-fidelity sci-fi globe interface that generates futuristic travel itineraries based on real-world locations using Gemini and Google Maps.",
+  "requestFramePermissions": []
+}
